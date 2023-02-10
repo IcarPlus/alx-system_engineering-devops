@@ -1,0 +1,11 @@
+#!/bin/bash
+ls -la
+./total 16
+drwxrwxr-x 2 vagrant vagrant 4096 Jun  7 21:27 .
+drwxrwxr-x 3 vagrant vagrant 4096 Jun  7 21:25 ..
+-rw-rw-r-- 1 vagrant vagrant  220 Apr  9  2018 .bash_logout
+-rw-rw-r-- 1 vagrant vagrant 3771 Apr  9  2018 .bashrc
+-rw-rw-r-- 1 vagrant vagrant  655 May 15  2017 .profile
+-rwxrwxr-x 1 vagrant vagrant   43 Jun  7 21:27 4-listmorefiles
+-rw-rw-r-- 1 vagrant vagrant   33 Jun  7 21:27 README.md
+-rwxrwxr-x 1 vagrant vagrant  140 Jun  7 21:27 .hidden

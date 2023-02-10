@@ -1,0 +1,10 @@
+#!/bin/bash
+./total 16
+drwxrwxr-x 2 1000 1000 4096 Jun  7 21:27 .
+drwxrwxr-x 3 1000 1000 4096 Jun  7 21:25 ..
+-rw-rw-r-- 1 1000 1000  220 Apr  9  2018 .bash_logout
+-rw-rw-r-- 1 1000 1000 3771 Apr  9  2018 .bashrc
+-rw-rw-r-- 1 1000 1000  655 May 15  2017 .profile
+-rwxrwxr-x 1 1000 1000   43 Jun  7 21:27 5-listfilesdigitonly
+-rw-rw-r-- 1 1000 1000   33 Jun  7 21:27 README.md
+-rwxrwxr-x 1 1000 1000  140 Jun  7 21:27 .hidden

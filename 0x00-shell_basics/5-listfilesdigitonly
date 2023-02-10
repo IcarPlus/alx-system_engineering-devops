@@ -1,2 +1,13 @@
 #!/bin/bash
 l -lan
+./total 32
+drwxr-xr-x 2 996 992 191 .
+drwxr-xr-x 4 996 992 43 ..
+-rwxr-xr-x 1 996 992 16 0-current_working_directory
+-rwxr-xr-x 1 996 992 15 1-listit
+-rwxr-xr-x 1 996 992 17 2-bring_me_home
+-rwxr-xr-x 1 996 992 19 3-listfiles
+-rwxr-xr-x 1 996 992 19 4-listmorefiles
+-rwxr-xr-x 1 996 992 19 5-listfilesdigitonly
+-rwxr-xr-x 1 996 992 42 6-firstdirectory
+-rwxr-xr-x 1 996 992 48 README.md

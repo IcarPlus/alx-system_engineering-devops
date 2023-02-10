@@ -1,3 +1,2 @@
 #!/bin/bash
-mv /tmp/betty /tmp/0x00-shell_basics
-ls 0x00-shell_basics/betty
+mv /tmp/betty /tmp/0x00-shell_basics/

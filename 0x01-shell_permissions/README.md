@@ -1,2 +1,2 @@
-You are welcome to my shell basics 
-Where am I?
+You are welcome to my shell permissions challenge
+Let's do this
